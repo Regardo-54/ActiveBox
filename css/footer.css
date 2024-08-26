@@ -1,0 +1,22 @@
+.footer_main_container {
+  margin-top: 80px;
+  padding-top: 30px;
+  padding-bottom: 50px;
+  background-color: rgb(58, 62, 100);
+  color: white;
+  text-align: center;
+}
+.footer_text_container {
+  padding-left: 150px;
+  padding-right: 150px;
+  margin-bottom: 40px;
+}
+
+.footer_header {
+  margin-bottom: 25px;
+}
+
+.footer_description {
+  padding-left: 20px;
+  padding-right: 20px;
+}

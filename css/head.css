@@ -1,0 +1,100 @@
+body {
+  font-family: "Roboto", cursive;
+}
+.background {
+  height: auto;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-image: url("img/banner.jpg");
+}
+
+.layer {
+  height: auto;
+  background-color: rgba(48, 52, 78, 0.934);
+}
+.nav-link {
+  font-size: 20px;
+  color: white;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+.active_text {
+  font-size: 40px;
+  font-weight: 500;
+  color: rgb(154, 156, 169);
+}
+.box {
+  font-size: 40px;
+  font-weight: 300;
+  color: white;
+}
+
+.navbar-brand {
+  padding-left: 10rem;
+}
+
+.nav-link:hover {
+  color: rgb(229, 232, 236);
+}
+
+.active a {
+  color: rgb(223, 228, 232);
+}
+
+@media (min-width: 1450.2px) {
+  .navbar-nav {
+    padding-right: 2rem;
+  }
+
+  .nav-item {
+    padding: 1rem;
+  }
+}
+@media (max-width: 1450px) and (min-width: 1120.2px) {
+  .navbar-nav {
+    padding-right: 1rem;
+  }
+
+  .nav-item {
+    padding: 0.5rem;
+  }
+}
+
+.nav_bar {
+  margin-top: 10px;
+}
+.intro_text {
+  margin-top: 200px;
+  text-align: center;
+}
+.main_text {
+  padding: 0 5rem;
+  margin-bottom: 0;
+  color: white;
+  font-size: 80px;
+  font-weight: 700;
+  text-transform: uppercase;
+  line-height: 100px;
+}
+
+.sub_text {
+  color: white;
+  padding: 0 5rem;
+  margin-top: 10px;
+  text-align: center;
+  font-size: 25px;
+}
+
+.find_button_div {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.find_button {
+  padding: 10px 60px;
+  border-radius: 0;
+  margin-bottom: 150px;
+}

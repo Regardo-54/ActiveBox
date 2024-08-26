@@ -1,0 +1,33 @@
+.team_container_main {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.team_img {
+  object-fit: contain;
+}
+
+.team_content_container {
+  margin-bottom: 10px;
+  width: 318px;
+  margin-left: 20px;
+}
+.card-title {
+  font-size: 25px;
+}
+
+.position {
+  color: rgb(255, 0, 0);
+  margin-bottom: 30px;
+}
+* {
+  border-radius: 0 !important;
+}
+
+.profile_btn {
+  margin-left: 5px;
+}
+.card-img-top {
+  width: 100%;
+  height: auto;
+}

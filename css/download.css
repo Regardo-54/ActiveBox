@@ -1,0 +1,23 @@
+.download_text {
+  text-align: center;
+}
+.download_description {
+  font-size: 40px;
+  color: rgba(65, 55, 55, 0.726);
+  margin-bottom: 0;
+}
+.download_description_subtext {
+  font-weight: 700;
+  margin-top: 5px;
+}
+.download_button_div {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.download_button {
+  padding: 6px 70px;
+}
+.download_container {
+  margin-bottom: 50px;
+}

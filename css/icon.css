@@ -1,0 +1,17 @@
+.grid_body {
+  margin-top: 80px;
+}
+.text_col {
+  text-align: center;
+}
+.title_of_text {
+  font-size: 22px;
+  font-weight: 500;
+  margin: 12px;
+}
+
+.description {
+  font-size: 16px;
+  margin-bottom: 30px;
+  color: rgb(107, 103, 103);
+}

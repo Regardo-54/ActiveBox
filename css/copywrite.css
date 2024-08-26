@@ -1,0 +1,12 @@
+.copywrite_container {
+  background-color: rgb(49, 52, 84);
+  padding: 20px;
+  text-align: center;
+  color: rgb(83, 91, 114);
+}
+.copywrite_container p {
+  margin-bottom: 3px;
+}
+.copywrite_holder_name {
+  color: white;
+}

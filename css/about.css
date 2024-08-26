@@ -1,0 +1,35 @@
+.about_container {
+  background-color: rgb(83, 53, 74);
+  margin-bottom: 60px;
+}
+
+.about_image_container {
+  width: 600px;
+  padding: 0 0;
+}
+
+.about_text {
+  color: white;
+  text-align: start;
+  padding-top: 100px;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  padding-bottom: 100px;
+}
+
+.quote {
+  font-family: "Cardo", serif;
+  font-style: italic;
+  font-size: 35px;
+}
+
+.author_name {
+  margin-top: 20px;
+  font-weight: 500;
+}
+
+.about_image {
+  height: 400px;
+  width: 600px;
+  object-fit: cover;
+}

@@ -1,0 +1,41 @@
+.gallery_container {
+  position: relative;
+  margin-left: 0;
+  padding: 0 0;
+  width: 474px;
+}
+
+.gallery_text {
+  position: absolute;
+  opacity: 100;
+  color: white;
+  background-color: rgba(255, 0, 0, 0.39);
+  height: 350px;
+  width: 475px;
+  transform: scale(0);
+}
+.gallery_text h6 {
+  position: absolute;
+  top: 150px;
+  left: 170px;
+}
+.gallery_text p {
+  position: absolute;
+  top: 175px;
+  left: 170px;
+}
+
+.gallery_container:hover .gallery_text {
+  transform: scale(1);
+  transition: all linear 0.7s;
+}
+.gallery_img {
+  height: 350px;
+  width: 475px;
+  object-fit: cover;
+  margin-left: 0;
+  padding: 0 0;
+}
+.gallery_main_container {
+  margin-top: 70px;
+}
